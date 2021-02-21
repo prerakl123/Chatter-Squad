@@ -20,6 +20,7 @@ Run `serverCMD.py`. By default, just as in `serverGUI.py`, _HOST_ and _PORT_ wil
 
 Here several Command Line windows have to be opened in order to run server and client on the same machine.
 
+Server Logs will be saved in `server_logs.json`, which contains information about who joined and left, and when.
 
 Here are some screenshots:
 
