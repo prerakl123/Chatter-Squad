@@ -19,3 +19,12 @@ _**CMD based**_:
 Run `serverCMD.py`. By default, just as in `serverGUI.py`, _HOST_ and _PORT_ will be 127.0.0.1 and 33000, respectively, and can be changed according to network as described above. Similar applications are for `clientCMD.py`.
 
 Here several Command Line windows have to be opened in order to run server and client on the same machine.
+
+
+Here are some screenshots:
+
+serverGUI:
+[]
+
+clientGUI:
+[]
