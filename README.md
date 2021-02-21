@@ -31,3 +31,17 @@ serverGUI:
 clientGUI:
 
 ![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/clientSS.png?raw=true)
+
+![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/SS1.png?raw=true)
+
+![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/SS2.png?raw=true)
+
+![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/SS3.png?raw=true)
+
+![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/SS4.png?raw=true)
+
+![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/SS5.png?raw=true)
+
+![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/SS6.png?raw=true)
+
+![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/SS7.png?raw=true)
