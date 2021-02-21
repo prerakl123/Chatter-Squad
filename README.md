@@ -24,7 +24,9 @@ Here several Command Line windows have to be opened in order to run server and c
 Here are some screenshots:
 
 serverGUI:
+
 ![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/serverSS.png?raw=true)
 
 clientGUI:
+
 ![](https://github.com/prerakl123/Chat-Zone/blob/main/screenshots/clientSS.png?raw=true)
