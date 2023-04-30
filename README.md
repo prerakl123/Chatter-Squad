@@ -1,4 +1,4 @@
-# Chat-Zone
+# Chatter-Squad
 Simple Python based Chatting Software. It can run on local machine server or from different devices connected to the same server (example: WiFi).
 
 # How to run
